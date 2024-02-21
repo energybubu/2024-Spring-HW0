@@ -9,16 +9,14 @@ Please provide your MetaMask wallet address:
 ## Local Testing
 Please provide a screenshot of the `forge test -vvv` command running in your local environment.
 
-![Screenshot 2024-02-21 at 11.30.21 PM](/Users/bubuenergy/Desktop/Screenshot 2024-02-21 at 11.30.21 PM.png)
+![alt text](img1.png)
 
 ## Contract Address
 Please provide the contract address that you deployed on the Sepolia network.
 
-![Screenshot 2024-02-21 at 10.53.26 PM](/Users/bubuenergy/Desktop/Screenshot 2024-02-21 at 10.53.26 PM.png)
-
-
+![alt text](img2.png)
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
 
-![Screenshot 2024-02-21 at 10.55.37 PM](/Users/bubuenergy/Desktop/Screenshot 2024-02-21 at 10.55.37 PM.png)
+![alt text](img3.png)
